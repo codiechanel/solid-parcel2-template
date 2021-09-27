@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "module": "ESNext",
+    "target": "ESNext",
+    "jsx": "preserve",
+    "esModuleInterop": true,
+    "sourceMap": true,
+    "allowJs": true,
+    "rootDir": "src",
+    "moduleResolution": "node",
+    "types": [
+      "babel-plugin-jsx-dom-expressions"
+    ]
+  }
+}
